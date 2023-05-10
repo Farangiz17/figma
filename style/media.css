@@ -1,0 +1,463 @@
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 964px;
+        margin: 0 auto;
+    }
+
+    .header_title span:last-child {
+        margin-left: 145px;
+    }
+
+    .yuklash {
+        display: none;
+    }
+
+    .card {
+        width: 230px;
+        height: 160px;
+    }
+
+    .udobnoye {
+        width: 974px;
+        height: 451px;
+    }
+
+    .map_img {
+        width: 963px;
+        height: 529px;
+    }
+
+    .item {
+        width: 150px;
+        height: 50.25px;
+        padding: 30px 35px;
+    }
+
+    .item img {
+        width: 130px;
+        height: 43.48px;
+    }
+
+    .partnyor {
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 728px;
+        margin: 0 auto;
+    }
+
+    .header_title span:last-child {
+        margin-left: 0;
+    }
+
+    .header_title {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 32px;
+        line-height: 135%;
+        letter-spacing: 0.035em;
+        text-transform: uppercase;
+        color: #F4F4F5;
+        margin: 30px 0 0 0px;
+        width: 375px;
+    }
+
+    .open_header_right {
+        width: 325px;
+    }
+
+    .kartalar {
+        width: 309px;
+        height: 256px;
+        margin-right: 0px !important;
+        margin-left: 0 !important;
+    }
+
+    .description {
+        width: 300px;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    .skachat {
+        margin: 80px 0 0 0px;
+    }
+
+    .card_group {
+        flex-wrap: wrap;
+    }
+
+    .card {
+        width: 354px;
+        height: 164px;
+        margin: 10px 0;
+    }
+
+    .xizmatlar {
+        gap: 20px;
+    }
+
+    .udobnoye {
+        width: 728px;
+    }
+
+    .udobnoye_img {
+        width: 364px;
+        height: 382px;
+    }
+
+    .oplata {
+        width: 354px;
+        height: 645px;
+        background-size: cover;
+        border-radius: 12px;
+    }
+
+
+    .card_title {
+        width: 365px;
+        font-size: 30px;
+        padding: 30px 0 20px 19px !important;
+    }
+
+    .card_desc {
+        width: 314px;
+        font-size: 16px;
+        padding-left: 19px;
+    }
+
+    .xizmatlar_left {
+        align-items: end;
+        justify-items: flex-end;
+    }
+
+    .xizmatlar_right {
+        align-items: baseline;
+    }
+
+    .obslujivaniye {
+        width: 354px;
+        height: 394px;
+    }
+
+
+    .obslujivaniye .obslujivaniye_h2 {
+        width: 324px;
+        font-size: 32px;
+        padding: 30px 0 20px 17px;
+    }
+
+    .obslujivaniye_p {
+        width: 314px;
+        font-size: 16px;
+        padding: 10px 0 20px 17px;
+    }
+
+    .obslujivaniye_img {
+        margin-left: 106px;
+        margin-top: 0px;
+    }
+
+
+    .oformleniye {
+        margin: 20px 0;
+        width: 354px;
+        height: 789px;
+        ;
+        object-fit: cover;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .visokie {
+        width: 354px;
+        height: 625px;
+        margin: 20px 0;
+    }
+
+    .visokie_h2 {
+        width: 240px;
+        font-size: 30px;
+        padding: 30px 0 20px 30px;
+    }
+
+    .visokie_p {
+        width: 314px;
+        font-size: 16px;
+        padding: 0 0 20px 30px;
+    }
+
+
+    .predoplate {
+        width: 354px;
+        height: 395px;
+        background-position: right;
+    }
+
+    .predoplate_h2 {
+        font-size: 30px;
+        width: 300px;
+    }
+
+    .predoplate_p {
+        width: 314px;
+    }
+
+    .udobnoye {
+        width: 728px;
+        height: 382px;
+    }
+
+    .udobnoye_img {
+        width: 364px;
+        height: 382px;
+    }
+
+    .udobnoye_h2 {
+        width: 312px;
+        font-size: 30px;
+        padding: 40px 0 30px 30px;
+    }
+
+    .udobnoye_p {
+        width: 314px;
+        padding: 20px 0 30px 30px;
+    }
+
+    .map_img {
+        width: 662px;
+        height: 403px;
+    }
+
+    .bopros {
+        width: 354px;
+        height: 82px;
+        margin: 73px -22px 11px 92px;
+    }
+
+    .footer_desc {
+        width: 342px;
+        height: 66px;
+        margin: 20px 0 20px 90px;
+    }
+    .tel{
+        margin-left: 100px;
+    }
+
+}
+
+@media screen and (max-width: 414px) {
+    .container {
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .language_group {
+        padding: 0 10px !important;
+    }
+
+    .uzb {
+        display: none !important;
+    }
+
+    .lan {
+        display: none !important;
+    }
+
+    .description {
+        width: 100% !important;
+        margin-top: 20px;
+    }
+
+    .open_header {
+        flex-direction: column;
+    }
+
+    .open_header_right {
+        top: 150px;
+    }
+
+    .skachat {
+        display: none;
+    }
+
+    .kartalar {
+        width: 381px;
+        height: 336.92px;
+        margin: 80px 0 0 20px;
+        padding-left: 15px;
+    }
+
+    .mobile_skachat {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 20px 24px;
+        gap: 16px;
+
+        width: 382px;
+        height: 64px;
+
+        background: rgba(244, 244, 245, 0.3);
+        border: 1px solid rgba(240, 235, 241, 0.3);
+        backdrop-filter: blur(2px);
+        border-radius: 12px;
+        margin: 30px auto;
+    }
+
+    .card {
+        width: 195px;
+        height: 160px;
+        padding: 40px 0px;
+        margin: 5px 0;
+    }
+
+    .card span {
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .card p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 135%;
+    }
+
+    .card_title {
+        width: 229px;
+        font-size: 30px;
+        padding: 30px 0 20px 21px;
+    }
+
+    .card_desc {
+        width: 314px;
+        font-size: 16px;
+    }
+
+    .xizmatlar {
+        display: none;
+    }
+
+    .xizmatlar_mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .mobile_udobnoye {
+        display: flex !important;
+        flex-direction: column-reverse;
+        width: 382px;
+        height: 709px;
+        margin-top: 40px;
+    }
+
+    .xizmatlar_title {
+        margin-left: 20px;
+    }
+
+    .map_title {
+        width: 382px;
+        height: 86px;
+        left: 16px;
+        top: 5180px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 135%;
+        color: #000000;
+        padding: 10px;
+    }
+
+    .map_img {
+        width: 382px;
+        height: 233px;
+    }
+
+    .item {
+        width: 156px;
+        height: 82px;
+        padding: 10px 15px;
+    }
+
+    .item img {
+        width: 150px;
+        height: 50.25px;
+    }
+
+    .partnyor {
+        gap: 5px;
+    }
+    footer{
+        display: none;
+    }
+
+    .mobile_footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #4E0F8A;
+        background-image: url('/images/Groupfon.png');
+        background-repeat: no-repeat;
+        object-fit: cover;
+        background-position: bottom;
+        width: 100%;
+        /* height: 450px; */
+        border-radius: 12px;
+        color: #fff !important;
+    }
+
+    .footer {
+        float: left;
+    }
+    
+    .bopros{
+        margin-left: 57px !important;
+        color: #fff;
+    }
+    .footer_desc{
+        margin-left: 50px;
+        color: #fff;
+    }
+    .tel{
+        margin-left: 57px;
+
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+    .opencard_bu {
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 135%;
+    }
+
+    .card p {
+        padding: 0 50px;
+    }
+
+    .map {
+        margin-left: 20px;
+    }
+
+    .map_img {
+        width: 320px;
+        height: 284px;
+        object-fit: cover;
+    }
+
+    .map_title {
+        margin: 40px 0 0 10px;
+    }
+}
